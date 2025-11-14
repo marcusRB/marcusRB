@@ -61,8 +61,8 @@ I’m currently pursuing an **MSc in Bioinformatics & Biostatistics**, applying 
 
 ## 📫 How to Reach Me
 
-🌐 Website: **[marcusrb.com](https://www.marcusrb.com/en/contact)**
-🔗 LinkedIn: **[linkedin.com/in/marcusrb](https://www.linkedin.com/in/marcusrb/)**
+* 🌐 Website: **[marcusrb.com](https://www.marcusrb.com/en/contact)**
+* 🔗 LinkedIn: **[linkedin.com/in/marcusrb](https://www.linkedin.com/in/marcusrb/)**
 
 ---
 
