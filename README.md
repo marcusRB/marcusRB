@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **MarcusRB**
 
-### Data Scientist & Machine Learning Engineer | R&D Health Data Science in Biotech Healthcare Pharma | PhD Track • Data Professor & TrainerAI
+### Data Scientist & Machine Learning Engineer • R&D Health Data Science in Biotech Healthcare Pharma
 
 With more than a decade in IT consulting, I build **AI/ML systems**, design **MLOps platforms**, and deliver **data-driven solutions** across **healthcare**, **biotech**, **finance**, **banking**, **insurance**, and **retail**.
 I’m currently pursuing an **MSc in Bioinformatics & Biostatistics** and **Biomedical Engineering**, applying advanced analytics and ML to biomedical and clinical data.
